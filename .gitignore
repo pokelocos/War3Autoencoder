@@ -1,0 +1,2 @@
+# Ignorar la carpeta .venv dentro de /Script/
+Script/.venv/
