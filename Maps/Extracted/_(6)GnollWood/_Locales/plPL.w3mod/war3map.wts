@@ -1,0 +1,56 @@
+ď»żSTRING 0
+{
+Gracz 1
+}
+
+STRING 1
+{
+Gracz 2
+}
+
+STRING 2
+{
+Gracz 3
+}
+
+STRING 3
+{
+Gracz 4
+}
+
+STRING 4
+{
+Gracz 5
+}
+
+STRING 5
+{
+Gracz 6
+}
+
+STRING 6
+{
+Armia 1
+}
+
+STRING 7
+{
+Las gnoli
+}
+
+STRING 8
+{
+2na2, 3na3 lub KnK
+}
+
+STRING 9
+{
+Zbliża się wróg, więc szybko przygotuj się do obrony. Zachowaj ostrożność badając brzegi rzeki - na wzgórzach czają się golemy.
+}
+
+STRING 10
+{
+Blizzard Entertainment
+}
+
+

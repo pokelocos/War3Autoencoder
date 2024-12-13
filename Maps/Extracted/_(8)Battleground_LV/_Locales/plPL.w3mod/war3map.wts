@@ -1,0 +1,91 @@
+ď»żSTRING 0
+{
+Pole bitwy (ER)
+}
+
+STRING 1
+{
+2na2, 4na4 lub KnK
+}
+
+STRING 2
+{
+Ta ciężko doświadczona przez wojnę kraina zaczyna odczuwać pierwsze podmuchy mroźnych wiatrów. Zbierz tyle złota, ile zdołasz – pora lodów szybko nadchodzi.
+}
+
+STRING 3
+{
+Blizzard Entertainment
+}
+
+STRING 7
+{
+Gracz 0
+}
+
+STRING 8
+{
+Gracz 1
+}
+
+STRING 9
+{
+Gracz 2
+}
+
+STRING 10
+{
+Gracz 3
+}
+
+STRING 11
+{
+Gracz 4
+}
+
+STRING 12
+{
+Gracz 5
+}
+
+STRING 13
+{
+Gracz 6
+}
+
+STRING 14
+{
+Gracz 7
+}
+
+STRING 15
+{
+Armia 1
+}
+
+STRING 16
+{
+Armia 2
+}
+
+STRING 17
+{
+Armia 3
+}
+
+STRING 18
+{
+Armia 4
+}
+
+STRING 19
+{
+Armia 5
+}
+
+STRING 20
+{
+Armia 6
+}
+
+

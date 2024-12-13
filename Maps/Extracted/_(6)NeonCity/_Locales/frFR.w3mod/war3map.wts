@@ -1,0 +1,58 @@
+
+STRING 1
+{
+Joueur 1
+}
+
+STRING 2
+{
+Troupe 1
+}
+
+STRING 3
+{
+Joueur 2
+}
+
+STRING 4
+{
+Joueur 3
+}
+
+STRING 5
+{
+Joueur 4
+}
+
+STRING 6
+{
+Joueur 5
+}
+
+STRING 7
+{
+Joueur 6
+}
+
+STRING 9
+{
+2c2, 3c3 ou CPS
+}
+
+STRING 8
+{
+Ville-lumière
+}
+
+STRING 10
+{
+Petit retour dans le passé, mort annoncée !
+La ville-lumière a donné naissance à Lune et Soleil, les créatures les plus diaboliques de tout Azeroth.
+
+Bande-son de la ville : Toutes griffes dehors !
+}
+
+STRING 11
+{
+Zs.SuperCumulo
+}

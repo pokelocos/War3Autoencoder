@@ -1,0 +1,90 @@
+﻿STRING 0
+{
+Player 1
+}
+
+STRING 1
+{
+Player 2
+}
+
+STRING 2
+{
+Player 3
+}
+
+STRING 3
+{
+Player 4
+}
+
+STRING 4
+{
+Player 5
+}
+
+STRING 5
+{
+Player 6
+}
+
+STRING 6
+{
+Player 7
+}
+
+STRING 7
+{
+Player 8
+}
+
+STRING 8
+{
+Force 1
+}
+
+STRING 9
+{
+Force 2
+}
+
+STRING 10
+{
+Force 3
+}
+
+STRING 11
+{
+Force 4
+}
+
+STRING 12
+{
+Force 5
+}
+
+STRING 13
+{
+Force 6
+}
+
+STRING 14
+{
+Golems in the Mist LV
+}
+
+STRING 15
+{
+2v2v2v2 or 4v4
+}
+
+STRING 16
+{
+Ally with a partner to defeat your enemies. Both riches and danger await those who explore deep into the forest.
+}
+
+STRING 17
+{
+Blizzard Entertainment
+}
+

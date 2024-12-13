@@ -1,0 +1,64 @@
+
+STRING 4
+{
+Blizzard Entertainment
+}
+
+STRING 8
+{
+Jugador 1
+}
+
+STRING 9
+{
+Fuerza 1
+}
+
+STRING 10
+{
+Jugador 2
+}
+
+STRING 11
+{
+Jugador 3
+}
+
+STRING 12
+{
+Jugador 4
+}
+
+STRING 1
+{
+Arboleda de Centauros
+}
+
+STRING 2
+{
+1 vs. 1 o 2 vs. 2
+}
+
+STRING 3
+{
+Los centauros defienden estos prados con tenacidad, ya que se cree que son sagrados. Las puertas místicas proporcionan una forma rápida de viajar por el territorio.
+}
+
+STRING 5
+{
+Arboleda de Centauros 1.01
+}
+
+STRING 6
+{
+por tehscourge
+}
+
+STRING 7
+{
+Registro de cambios:
+
+1.01 - Modificaciones menores al terreno
+
+1.00 - Primera versión completa.
+}

@@ -1,0 +1,90 @@
+
+STRING 3
+{
+Blizzard Entertainment
+}
+
+STRING 7
+{
+Jugador 0
+}
+
+STRING 8
+{
+Jugador 1
+}
+
+STRING 9
+{
+Jugador 2
+}
+
+STRING 10
+{
+Jugador 3
+}
+
+STRING 11
+{
+Jugador 4
+}
+
+STRING 12
+{
+Jugador 5
+}
+
+STRING 13
+{
+Jugador 6
+}
+
+STRING 14
+{
+Jugador 7
+}
+
+STRING 15
+{
+Fuerza 1
+}
+
+STRING 16
+{
+Fuerza 2
+}
+
+STRING 17
+{
+Fuerza 3
+}
+
+STRING 18
+{
+Fuerza 4
+}
+
+STRING 0
+{
+Campo de Batalla LV
+}
+
+STRING 1
+{
+Todos contra todos, 2 vs. 2 o 4 vs. 4
+}
+
+STRING 2
+{
+El frío helado del invierno ha comenzado a caer en estas tierras devastadas por la guerra. Reúne todo el oro que puedas, porque la estación del hielo se aproxima rápidamente.
+}
+
+STRING 19
+{
+Fuerza 5
+}
+
+STRING 20
+{
+Fuerza 6
+}

@@ -1,0 +1,56 @@
+ï»¿STRING 0
+{
+Spieler 1
+}
+
+STRING 1
+{
+Spieler 2
+}
+
+STRING 2
+{
+Spieler 3
+}
+
+STRING 3
+{
+Spieler 4
+}
+
+STRING 4
+{
+Spieler 5
+}
+
+STRING 5
+{
+Spieler 6
+}
+
+STRING 6
+{
+Streitmacht 1
+}
+
+STRING 7
+{
+Gnollwald
+}
+
+STRING 8
+{
+2v2, 3v3 oder FFA
+}
+
+STRING 9
+{
+Die Verteidigung sollte schnell vorbereitet werden, denn der Gegner rückt näher. Vorsicht beim Ausspähen des Flussufers: Golems lauern in den Hügeln.
+}
+
+STRING 10
+{
+Blizzard Entertainment
+}
+
+

@@ -1,0 +1,64 @@
+
+STRING 4
+{
+Blizzard Entertainment
+}
+
+STRING 8
+{
+Jogador 1
+}
+
+STRING 9
+{
+Tropa 1
+}
+
+STRING 10
+{
+Jogador 2
+}
+
+STRING 11
+{
+Jogador 3
+}
+
+STRING 12
+{
+Jogador 4
+}
+
+STRING 1
+{
+Bosque dos Centauros
+}
+
+STRING 2
+{
+1x1 ou 2x2
+}
+
+STRING 3
+{
+Os centauros são implacáveis na defesa destes prados, que acreditam ser sagrados. Pórticos místicos são uma maneira rápida de se locomover pelo terreno.
+}
+
+STRING 5
+{
+Bosque dos Centauros 1.01
+}
+
+STRING 6
+{
+por tehscourge
+}
+
+STRING 7
+{
+Registro de alterações:
+
+1.01 - Pequenas edições no terreno
+
+1.00 - Primeira versão completa.
+}

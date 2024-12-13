@@ -1,0 +1,90 @@
+
+STRING 3
+{
+Blizzard Entertainment
+}
+
+STRING 7
+{
+Jogador 0
+}
+
+STRING 8
+{
+Jogador 1
+}
+
+STRING 9
+{
+Jogador 2
+}
+
+STRING 10
+{
+Jogador 3
+}
+
+STRING 11
+{
+Jogador 4
+}
+
+STRING 12
+{
+Jogador 5
+}
+
+STRING 13
+{
+Jogador 6
+}
+
+STRING 14
+{
+Jogador 7
+}
+
+STRING 15
+{
+Tropa 1
+}
+
+STRING 16
+{
+Tropa 2
+}
+
+STRING 17
+{
+Tropa 3
+}
+
+STRING 18
+{
+Tropa 4
+}
+
+STRING 0
+{
+Campo de Batalha (LV)
+}
+
+STRING 1
+{
+2x2 - 4x4 ou TCT
+}
+
+STRING 2
+{
+O vento gélido do inverno começou a soprar nestas terras devastadas pela guerra. Reúna o ouro que puder agora, pois a época das geadas chegará em breve.
+}
+
+STRING 19
+{
+Tropa 5
+}
+
+STRING 20
+{
+Tropa 6
+}

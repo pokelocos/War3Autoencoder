@@ -1,0 +1,90 @@
+﻿STRING 0
+{
+Battleground
+}
+
+STRING 1
+{
+4v4
+}
+
+STRING 2
+{
+The icy chill of winter has begun to fall on these war-torn lands. Gather what gold you can now, for the season of frost is fast approaching.
+}
+
+STRING 3
+{
+Blizzard
+}
+
+STRING 8
+{
+Player 1
+}
+
+STRING 9
+{
+Player 2
+}
+
+STRING 10
+{
+Player 3
+}
+
+STRING 11
+{
+Player 4
+}
+
+STRING 12
+{
+Player 5
+}
+
+STRING 13
+{
+Player 6
+}
+
+STRING 14
+{
+Player 7
+}
+
+STRING 15
+{
+Force 1
+}
+
+STRING 16
+{
+Force 2
+}
+
+STRING 17
+{
+Force 3
+}
+
+STRING 18
+{
+Force 4
+}
+
+STRING 19
+{
+Force 5
+}
+
+STRING 20
+{
+Force 6
+}
+
+STRING 21
+{
+Player 8
+}
+

@@ -1,0 +1,91 @@
+ď»żSTRING 0
+{
+Gracz 1
+}
+
+STRING 1
+{
+Gracz 2
+}
+
+STRING 2
+{
+Gracz 3
+}
+
+STRING 3
+{
+Gracz 4
+}
+
+STRING 4
+{
+Gracz 5
+}
+
+STRING 5
+{
+Gracz 6
+}
+
+STRING 6
+{
+Gracz 7
+}
+
+STRING 7
+{
+Gracz 8
+}
+
+STRING 8
+{
+Armia 1
+}
+
+STRING 9
+{
+Armia 2
+}
+
+STRING 10
+{
+Armia 3
+}
+
+STRING 11
+{
+Armia 4
+}
+
+STRING 12
+{
+Armia 5
+}
+
+STRING 13
+{
+Armia 6
+}
+
+STRING 14
+{
+Golemy we mgle (ER)
+}
+
+STRING 15
+{
+2na2na2na2 lub 4na4
+}
+
+STRING 16
+{
+Aby pokonać wrogów, zawiąż sojusz z innym graczem. Na tych, którzy zapuszczą się w głąb lasu, czekają zarówno bogactwa, jak i niebezpieczeństwa.
+}
+
+STRING 17
+{
+Blizzard Entertainment
+}
+
+

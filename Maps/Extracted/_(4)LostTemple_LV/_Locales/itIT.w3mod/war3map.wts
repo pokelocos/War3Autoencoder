@@ -1,0 +1,71 @@
+STRING 0
+{
+Giocatore 1
+}
+
+STRING 1
+{
+Giocatore 2
+}
+
+STRING 2
+{
+Giocatore 3
+}
+
+STRING 3
+{
+Giocatore 4
+}
+
+STRING 4
+{
+Armata 1
+}
+
+STRING 5
+{
+Armata 2
+}
+
+STRING 6
+{
+Armata 3
+}
+
+STRING 7
+{
+Armata 4
+}
+
+STRING 8
+{
+Armata 5
+}
+
+STRING 9
+{
+Armata 6
+}
+
+STRING 10
+{
+Tempio Perduto LV
+}
+
+STRING 11
+{
+TCT o 2v2
+}
+
+STRING 12
+{
+La Fonte della Salute, circondata da Miniere d'Oro, ti aspetta. Espanditi in fretta, prima che i nemici ti schiaccino.
+}
+
+STRING 13
+{
+Blizzard Entertainment
+}
+
+
